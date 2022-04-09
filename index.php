@@ -49,7 +49,91 @@
         <div class="container">
             <!-- =================LEFT============= -->
             <div class="left">
+                <a class="profile">
+                    <div class="profile-photo">
+                        <img src="./images/profile-1.jpg" >
+                    </div>
+                    <h4>Slime Ndema</h4>
+                    <p class="text-muted">@Daddypro21</p>
 
+                    <!-- .................SIDEBAR................. -->
+                    <div class="sidebar">
+                        <a  class="menu-item active">
+                            <span><i class="uil uil-home"></i></span><h3>Home</h3>
+                        </a>
+                        <a  class="menu-item ">
+                            <span><i class="uil uil-compass"></i></span><h3>Explore</h3>
+                        </a>
+                        <a  class="menu-item ">
+                            <span><i class="uil uil-bell"></i></span><h3>Notifications</h3>
+                            <!-- ..........notification popup.......... -->
+                            <div class="notifications-popup">
+                                <div class="profile-photo">
+                                    <img src="./images/feed-2.jpg" >
+                                </div>
+                                <div class="notification-body">
+                                    <b>Koli Elisabeth</b> accepted your friend request
+                                    <small class="text-muted">2 DAYS AGO</small>
+                                </div>
+                            </div>
+
+                            <div class="notifications-popup">
+                                <div class="profile-photo">
+                                    <img src="./images/feed-3.jpg" >
+                                </div>
+                                <div class="notification-body">
+                                    <b>Mama Zo</b> commented on a post you are tagged in
+                                    <small class="text-muted">2 DAYS AGO</small>
+                                </div>
+                            </div>
+
+                            <div class="notifications-popup">
+                                <div class="profile-photo">
+                                    <img src="./images/feed-4.jpg" >
+                                </div>
+                                <div class="notification-body">
+                                    <b>Matina Therese</b> commented on a post you are tagged in
+                                    <small class="text-muted">2 DAYS AGO</small>
+                                </div>
+                            </div>
+
+                            <div class="notifications-popup">
+                                <div class="profile-photo">
+                                    <img src="./images/feed-5.jpg" >
+                                </div>
+                                <div class="notification-body">
+                                    <b>Jackie Chan</b> commented on a post you are tagged in
+                                    <small class="text-muted">2 DAYS AGO</small>
+                                </div>
+                            </div>
+
+                            <div class="notifications-popup">
+                                <div class="profile-photo">
+                                    <img src="./images/feed-6.jpg" >
+                                </div>
+                                <div class="notification-body">
+                                    <b>San Goku</b> commented on a post you are tagged in
+                                    <small class="text-muted">2 DAYS AGO</small>
+                                </div>
+                            </div>
+                        </a>
+                        <a  class="menu-item ">
+                            <span><i class="uil uil-envelope-alt"></i></span><h3>Message</h3>
+                        </a>
+                        <a  class="menu-item ">
+                            <span><i class="uil uil-bookmark"></i></span><h3>Bookmarks</h3>
+                        </a>
+                        <a  class="menu-item ">
+                            <span><i class="uil uil-chart-line"></i></span><h3>Analytics</h3>
+                        </a>
+                        <a  class="menu-item ">
+                            <span><i class="uil uil-palette"></i></span><h3>Theme</h3>
+                        </a>
+                        <a  class="menu-item ">
+                            <span><i class="uil uil-setting"></i></span><h3>Settings</h3>
+                        </a>
+                    </div>
+                </a>
             </div>
              <!-- =================MIDDLE============= -->
             <div class="middle">

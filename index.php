@@ -35,12 +35,32 @@
                     <div class="create">
                         <label class="btn btn-primary" for="create-post">Create</label>
                         <div class="profile-photo">
-                            <img src="./images/profile-1.jpg" alt="">
+                            <img src="images/profile-1.jpg" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </nav>
+
+        <!-- .................MAIN................... -->
+
+        <main>
+
+        <div class="container">
+            <!-- =================LEFT============= -->
+            <div class="left">
+
+            </div>
+             <!-- =================MIDDLE============= -->
+            <div class="middle">
+
+            </div>
+             <!-- =================RIGHT============= -->
+            <div class="right">
+
+            </div>
+        </div>
+        </main>
 
 </body>
 </html>

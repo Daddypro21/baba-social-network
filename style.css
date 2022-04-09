@@ -58,7 +58,7 @@ img{
 }
 .btn{
     display:inline-block;
-    padding: var(--btn--padding);
+    padding: var(--btn-padding);
     font-weight: 500;
     border-radius: var(--border-radius);
     cursor:pointer;

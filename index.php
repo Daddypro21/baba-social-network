@@ -33,8 +33,8 @@
                     <input type="search" placeholder="Search your baba friends">
 
                     <div class="create">
-                        <label for="create-post">Create</label>
-                        <div class="profile-picture">
+                        <label class="btn btn-primary" for="create-post">Create</label>
+                        <div class="profile-photo">
                             <img src="./images/profile-1.jpg" alt="">
                         </div>
                     </div>

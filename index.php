@@ -64,8 +64,8 @@
                         <a  class="menu-item ">
                             <span><i class="uil uil-compass"></i></span><h3>Explore</h3>
                         </a>
-                        <a  class="menu-item ">
-                            <span><i class="uil uil-bell"></i></span><h3>Notifications</h3>
+                        <a  class="menu-item " id="notifications">
+                            <span><i class="uil uil-bell"> <small class="notification-count">9+</small></i></span><h3>Notifications</h3>
                             <!-- ..........notification popup.......... -->
                             <div class="notifications-popup">
                                 <div class="profile-photo">
@@ -117,8 +117,8 @@
                                 </div>
                             </div>
                         </a>
-                        <a  class="menu-item ">
-                            <span><i class="uil uil-envelope-alt"></i></span><h3>Message</h3>
+                        <a  class="menu-item" id="messages-notifications">
+                            <span><i class="uil uil-envelope-alt" > <small class="notification-count">3+</small></i></span><h3>Message</h3>
                         </a>
                         <a  class="menu-item ">
                             <span><i class="uil uil-bookmark"></i></span><h3>Bookmarks</h3>
@@ -129,7 +129,7 @@
                         <a  class="menu-item ">
                             <span><i class="uil uil-palette"></i></span><h3>Theme</h3>
                         </a>
-                        <a  class="menu-item ">
+                        <a  class="menu-item  ">
                             <span><i class="uil uil-setting"></i></span><h3>Settings</h3>
                         </a>
 

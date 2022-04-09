@@ -132,6 +132,9 @@
                         <a  class="menu-item ">
                             <span><i class="uil uil-setting"></i></span><h3>Settings</h3>
                         </a>
+
+                        <!-- .............................END OF SIDEBAR................. -->
+                        <label class="btn btn-primary" for="create-post">Create Post</label>
                     </div>
                 </a>
             </div>
